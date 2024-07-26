@@ -1,0 +1,10 @@
+# Tipos de código
+    - Código fonte = Código que o programador escreveu mas que ainda não compilou.
+    - Código objeto = Código já compilado e sem problemas de escrita ou gramática.
+
+# Modelos de execução
+    - Compilação
+        - Gerador de código
+    - Interpretação
+    - Abordagem híbrida
+        - Máquina virtual

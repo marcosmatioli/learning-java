@@ -1,0 +1,18 @@
+# Algoritmo:
+    - Sequencia finita de instruções a fim de solucionar um problema.
+# Automação:
+    - Consiste em fazer com que o algoritmo execute de forma automática ou semiautomática procedimentos sem a supervisão.
+    - Economiza tempo
+
+# Hardware 
+    - Físico
+    - A máquina em si
+# Software 
+    - Lógico
+    - Programas que são executados no computador.
+
+-- Portanto
+
+    Programas de computador são algoritmos executados pelo computador.
+# Conclusão:
+    O computador é uma máquina que automatiza a execução de algoritmos.

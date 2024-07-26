@@ -1,0 +1,11 @@
+# Linguagem de programação:
+
+-- Léxicas: ortografia das palavras.
+    Exemplo:
+        - Cachorro (Certa)
+        - Caxorro (Errado, está escrito de forma errada)
+
+-- Sintática: gramática na sentença.
+    Exemplo:
+        - O cachorro está com fome (Certa na gramática)
+        - A cachorro está com fome (Errado na gramática)

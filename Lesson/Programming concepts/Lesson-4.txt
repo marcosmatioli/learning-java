@@ -1,0 +1,12 @@
+# IDE - Ambiente integrado de desenvolvimento
+
+- Java: Eclipse e Netbeans
+- C/C++: Code Blocks
+- C#: Microsoft Visual Studio
+
+## Funcionalidade de IDE:
+    - Edição de codigo
+    - Depuração e testes
+    - Construção de produto final (build)
+    - Sugestão de modelos (templates)
+    - Auxiliar em várias tarefas do seu projeto
