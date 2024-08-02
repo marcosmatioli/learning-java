@@ -1,0 +1,7 @@
+# Compilação e interpretação
+ - Linguagens compiladas: C, C++
+ - Linguagens interpretadas: PHP, JavaScript
+ - Linguagens pré-compiladas + máquina virtual: Java, C#
+
+ Código Java já compilado ele passa pelo compilador -> Transforma em Bytecode -> JVM em cada SO
+ Chamada de Compilação just in time ( JIT )

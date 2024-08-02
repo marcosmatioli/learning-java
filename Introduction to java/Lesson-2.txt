@@ -1,0 +1,30 @@
+# Uma aplicação é composta por classes.
+
+# package = Agrupamento LÓGICO de classes relacionadas
+    -Exemplo de pacotes:
+
+        - Entities
+        - Services
+        - Repositories (classe para acessar dados)
+
+# Módulo (Java 9+), basicamente um agrupamento lógico de pacotes relacionados
+ #Runtime = Agrupamento físico
+
+    - Financial
+        - Entities
+        - Services
+    - Graphics
+        - Graphics3D
+        - Graphics2D
+        - Utilities
+
+# Aplicação = Agrupamento de módulos relacionados
+
+# Para aparecer o console
+Window -> Show view -> Console
+# Zerar layout
+Window -> Perspective -> Reset Perspective
+# Mudar layout
+Window -> Perspective -> Open Perspective -> Java (Default)
+
+# SCOURCE -> FONTE
