@@ -1,0 +1,13 @@
+Errado
+
+int 6minutos;
+int salário;
+int salário do funcionário;
+
+Correto
+
+int _5minutos;
+int salario;
+int salarioDoFuncionario;
+
+Sempre se inicia com letra minuscula no java
